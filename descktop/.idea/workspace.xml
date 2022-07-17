@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8327364e-d933-41f4-af45-c238da7f6242" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/.gradle/7.1/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/.gradle/7.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/.gradle/7.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/classes/kotlin/main/META-INF/telegram_bot.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/classes/kotlin/main/api/Api$client$1$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/classes/kotlin/main/api/Api$client$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/classes/kotlin/main/api/Api$client$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/classes/kotlin/main/api/Api$getAllEmployees$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/classes/kotlin/main/api/Api.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/classes/kotlin/main/api/model/Employee$$serializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/classes/kotlin/main/api/model/Employee$Companion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/classes/kotlin/main/api/model/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/classes/kotlin/main/api/model/Post$$serializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/classes/kotlin/main/api/model/Post$Companion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/classes/kotlin/main/api/model/Post.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/cacheable/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/build/kotlin/compileKotlin/local-state/build-history.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/src/main/kotlin/MainViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/src/main/kotlin/api/Api.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/src/main/kotlin/api/Random.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/src/main/kotlin/api/model/Employee.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/src/main/kotlin/bot/TelegramBot.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bot/src/main/kotlin/common/CoroutineScope.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Api/CS-GO_API/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Api/CS-GO_API/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/A/app/src/main/java/com/example/a/api/ApiUser.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/A/app/src/main/java/com/example/a/api/ApiUser.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/A/app/src/main/java/com/example/a/api/RepositoryApi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/A/app/src/main/java/com/example/a/api/RepositoryApi.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/A/app/src/main/java/com/example/a/api/model/User.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/A/app/src/main/java/com/example/a/api/model/User.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/A/app/src/main/java/com/example/a/utils/Converters.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/A/app/src/main/java/com/example/a/utils/Converters.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Backdrop/app/src/main/java/com/example/backdrop/Cinema.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Backdrop/app/src/main/java/com/example/backdrop/Cinema.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Broadcastreceiver/app/src/main/java/com/example/broadcastreceiver/NetworkChangedReceiver.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Broadcastreceiver/app/src/main/java/com/example/broadcastreceiver/NetworkChangedReceiver.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/CameraX/app/src/main/java/com/example/camerax/CameraView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/CameraX/app/src/main/java/com/example/camerax/CameraView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/CameraX/app/src/main/res/drawable/ic_outline_flashlight_off.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/CameraX/app/src/main/res/drawable/ic_outline_flashlight_off.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/CameraX/app/src/main/res/drawable/ic_outline_flashlight_on.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/CameraX/app/src/main/res/drawable/ic_outline_flashlight_on.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/CameraX/app/src/main/res/drawable/ic_outline_rotate.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/CameraX/app/src/main/res/drawable/ic_outline_rotate.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/CloudFirestore/app/src/main/java/com/example/cloudfirestore/data/DataRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/CloudFirestore/app/src/main/java/com/example/cloudfirestore/data/DataRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/CloudFirestore/app/src/main/java/com/example/cloudfirestore/data/DataViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/CloudFirestore/app/src/main/java/com/example/cloudfirestore/data/DataViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/CloudFirestore/app/src/main/java/com/example/cloudfirestore/data/DataViewModelFactory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/CloudFirestore/app/src/main/java/com/example/cloudfirestore/data/DataViewModelFactory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/CloudFirestore/app/src/main/java/com/example/cloudfirestore/data/model/User.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/CloudFirestore/app/src/main/java/com/example/cloudfirestore/data/model/User.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/DateRetrofit/app/src/main/java/com/example/dateretrofit/MainViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/DateRetrofit/app/src/main/java/com/example/dateretrofit/MainViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/DateRetrofit/app/src/main/java/com/example/dateretrofit/MainViewModelFactory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/DateRetrofit/app/src/main/java/com/example/dateretrofit/MainViewModelFactory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/DateRetrofit/app/src/main/java/com/example/dateretrofit/date/api/AutorApi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/DateRetrofit/app/src/main/java/com/example/dateretrofit/date/api/AutorApi.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/DateRetrofit/app/src/main/java/com/example/dateretrofit/date/model/Autor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/DateRetrofit/app/src/main/java/com/example/dateretrofit/date/model/Autor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/DateRetrofit/app/src/main/java/com/example/dateretrofit/date/repository/ApiAutorRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/DateRetrofit/app/src/main/java/com/example/dateretrofit/date/repository/ApiAutorRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/DateRetrofit/app/src/main/java/com/example/dateretrofit/date/retrofitInst/RetrofitInst.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/DateRetrofit/app/src/main/java/com/example/dateretrofit/date/retrofitInst/RetrofitInst.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/DateRetrofit/app/src/main/java/com/example/dateretrofit/date/serialization/BitmapSerialization.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/DateRetrofit/app/src/main/java/com/example/dateretrofit/date/serialization/BitmapSerialization.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/DateRetrofit/app/src/main/java/com/example/dateretrofit/date/serialization/DateSerialization.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/DateRetrofit/app/src/main/java/com/example/dateretrofit/date/serialization/DateSerialization.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Example/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Example/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Example/app/src/main/java/com/example/example/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Example/app/src/main/java/com/example/example/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Example/app/src/main/java/com/example/example/api/RepositoryApi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Example/app/src/main/java/com/example/example/api/RepositoryApi.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Example/app/src/main/java/com/example/example/api/Retrofit.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Example/app/src/main/java/com/example/example/api/Retrofit.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Example/app/src/main/java/com/example/example/api/UserApi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Example/app/src/main/java/com/example/example/api/UserApi.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Example/app/src/main/java/com/example/example/api/ViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Example/app/src/main/java/com/example/example/api/ViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Example/app/src/main/java/com/example/example/api/model/Authorization.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Example/app/src/main/java/com/example/example/api/model/Authorization.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Example/app/src/main/java/com/example/example/api/model/Header.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Example/app/src/main/java/com/example/example/api/model/Header.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Example/app/src/main/java/com/example/example/di/ApiModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Example/app/src/main/java/com/example/example/di/ApiModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Lottie/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Lottie/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Lottie/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Lottie/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Lottie/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Lottie/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Lottie/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Lottie/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/MVP/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/MVP/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/MVP/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/MVP/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/MVP/app/src/main/java/com/example/mvp/data/UserDatabase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/MVP/app/src/main/java/com/example/mvp/data/UserDatabase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/MVP/app/src/main/java/com/example/mvp/data/dao/NoteDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/MVP/app/src/main/java/com/example/mvp/data/dao/NoteDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/MVP/app/src/main/java/com/example/mvp/data/repository/NoteDatabaseRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/MVP/app/src/main/java/com/example/mvp/data/repository/NoteDatabaseRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/MVP/app/src/main/java/com/example/mvp/di/DatabaseModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/MVP/app/src/main/java/com/example/mvp/di/DatabaseModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/MyApplication/app/src/main/java/com/example/myapplication/BaseApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/MyApplication/app/src/main/java/com/example/myapplication/BaseApplication.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/MyApplication/app/src/main/java/com/example/myapplication/MainViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/MyApplication/app/src/main/java/com/example/myapplication/MainViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/MyApplication/app/src/main/java/com/example/myapplication/databse/UserDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/MyApplication/app/src/main/java/com/example/myapplication/databse/UserDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/MyApplication/app/src/main/java/com/example/myapplication/databse/UserDatabase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/MyApplication/app/src/main/java/com/example/myapplication/databse/UserDatabase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/MyApplication/app/src/main/java/com/example/myapplication/databse/model/User.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/MyApplication/app/src/main/java/com/example/myapplication/databse/model/User.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/MyApplication/app/src/main/java/com/example/myapplication/databse/repository/DatabaseRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/MyApplication/app/src/main/java/com/example/myapplication/databse/repository/DatabaseRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/MyApplication/app/src/main/java/com/example/myapplication/di/DatabaseModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/MyApplication/app/src/main/java/com/example/myapplication/di/DatabaseModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/MyApplication/app/src/main/java/com/example/myapplication/utils/Converters.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/MyApplication/app/src/main/java/com/example/myapplication/utils/Converters.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/MyApplication/app/src/main/java/com/example/myapplication/utils/TestinEmail.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/MyApplication/app/src/main/java/com/example/myapplication/utils/TestinEmail.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/MyApplication/app/src/test/java/com/example/myapplication/utils/TestinEmailKtTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/MyApplication/app/src/test/java/com/example/myapplication/utils/TestinEmailKtTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/MyApplication2/app/src/main/java/com/example/myapplication/Item.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/MyApplication2/app/src/main/java/com/example/myapplication/Item.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/MyApplication2/app/src/main/java/com/example/myapplication/Product.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/MyApplication2/app/src/main/java/com/example/myapplication/Product.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/MyApplication2/app/src/main/java/com/example/myapplication/ProductItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/MyApplication2/app/src/main/java/com/example/myapplication/ProductItem.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/application/BaseApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/application/BaseApplication.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/di/AuthorizationModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/di/AuthorizationModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/di/FirestoreModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/di/FirestoreModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/navigation/host/Host.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/navigation/host/Host.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/navigation/navGraph/loginNavGraph/constants/LoginConstants.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/navigation/navGraph/loginNavGraph/constants/LoginConstants.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/navigation/navGraph/loginNavGraph/constants/LoginScreenRoute.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/navigation/navGraph/loginNavGraph/constants/LoginScreenRoute.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/navigation/navGraph/loginNavGraph/loginNavGraph.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/navigation/navGraph/loginNavGraph/loginNavGraph.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/navigation/navGraph/notestNavGraph/constants/NotesConstants.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/navigation/navGraph/notestNavGraph/constants/NotesConstants.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/navigation/navGraph/notestNavGraph/constants/NotesScreenRoute.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/navigation/navGraph/notestNavGraph/constants/NotesScreenRoute.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/navigation/navGraph/notestNavGraph/notesNavGraph.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/navigation/navGraph/notestNavGraph/notesNavGraph.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/navigation/navGraph/profileNavGraph/constants/ProfileConstants.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/navigation/navGraph/profileNavGraph/constants/ProfileConstants.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/navigation/navGraph/profileNavGraph/constants/ProfileScreenRoute.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/navigation/navGraph/profileNavGraph/constants/ProfileScreenRoute.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/navigation/navGraph/profileNavGraph/profileNavGraph.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/navigation/navGraph/profileNavGraph/profileNavGraph.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/navigation/navGraph/settingNavGraph/constants/SettingConstants.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/navigation/navGraph/settingNavGraph/constants/SettingConstants.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/navigation/navGraph/settingNavGraph/constants/SettingScreenRoute.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/navigation/navGraph/settingNavGraph/constants/SettingScreenRoute.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/navigation/navGraph/settingNavGraph/settingNavGraph.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/navigation/navGraph/settingNavGraph/settingNavGraph.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/loginScreen/AuthorizationScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/loginScreen/AuthorizationScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/loginScreen/ConfirmEmailScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/loginScreen/ConfirmEmailScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/loginScreen/LoginScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/loginScreen/LoginScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/loginScreen/RegistrationScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/loginScreen/RegistrationScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/loginScreen/UpdatePasswordScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/loginScreen/UpdatePasswordScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/loginScreen/UpdateUsernameScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/loginScreen/UpdateUsernameScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/loginScreen/view/LoginView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/loginScreen/view/LoginView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/loginScreen/view/TextFieldView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/loginScreen/view/TextFieldView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/loginScreen/viewModel/LoginViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/loginScreen/viewModel/LoginViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/notesScreen/GetNotesScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/notesScreen/GetNotesScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/notesScreen/PushNotesScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/notesScreen/PushNotesScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/notesScreen/viewModel/NotesViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/notesScreen/viewModel/NotesViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/profileScreen/ProfileScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/profileScreen/ProfileScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/settingScreen/UserSettingScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/settingScreen/UserSettingScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/settingScreen/viewModel/SettingViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/screen/settingScreen/viewModel/SettingViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/services/firestore/FirestoreRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/services/firestore/FirestoreRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/services/firestore/FirestoreRepositoryImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/services/firestore/FirestoreRepositoryImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/services/firestore/model/Notes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/services/firestore/model/Notes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/services/firestore/model/Response.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/services/firestore/model/Response.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/services/firestore/useCase/AddNotes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/services/firestore/useCase/AddNotes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/services/firestore/useCase/GetNotes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/services/firestore/useCase/GetNotes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/services/firestore/useCase/UseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/services/firestore/useCase/UseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/utils/Converters.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/app/src/main/java/com/example/notesfirebase/utils/Converters.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/NotesFirebase/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/NotesFirebase/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/OkHttp/app/src/main/java/com/example/okhttp/OkHttp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/OkHttp/app/src/main/java/com/example/okhttp/OkHttp.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Photo/app/src/main/java/com/example/photo/api/Api.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Photo/app/src/main/java/com/example/photo/api/Api.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Photo/app/src/main/java/com/example/photo/api/RetrofitInst.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Photo/app/src/main/java/com/example/photo/api/RetrofitInst.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Photo/app/src/main/java/com/example/photo/api/model/Autor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Photo/app/src/main/java/com/example/photo/api/model/Autor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Photo/app/src/main/java/com/example/photo/api/utils/Converters.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Photo/app/src/main/java/com/example/photo/api/utils/Converters.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/ProtoDataStore/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/ProtoDataStore/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/RetrofitHacaton/app/src/main/java/com/example/retrofithacaton/Api.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/RetrofitHacaton/app/src/main/java/com/example/retrofithacaton/Api.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/RetrofitHacaton/app/src/main/java/com/example/retrofithacaton/Authorization.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/RetrofitHacaton/app/src/main/java/com/example/retrofithacaton/Authorization.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/RetrofitHacaton/app/src/main/java/com/example/retrofithacaton/RetrofitInst.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/RetrofitHacaton/app/src/main/java/com/example/retrofithacaton/RetrofitInst.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/dao/HomeDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/dao/HomeDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/dao/OwnerDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/dao/OwnerDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/dao/RoomDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/dao/RoomDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/database/HomeDatabase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/database/HomeDatabase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/entitites/Home.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/entitites/Home.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/entitites/Owner.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/entitites/Owner.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/entitites/Room.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/entitites/Room.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/entitites/relations/HomeAndRooms.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/entitites/relations/HomeAndRooms.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/entitites/relations/RoomAndOwners.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/entitites/relations/RoomAndOwners.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/migrations/MigrationTo1From2BitmapOwnerDelete.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/migrations/MigrationTo1From2BitmapOwnerDelete.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/migrations/MigrationTo3From4OwnerAgeAddColumn.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/migrations/MigrationTo3From4OwnerAgeAddColumn.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/repository/HomeRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/repository/HomeRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/repository/OwnerRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/repository/OwnerRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/repository/RoomRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/repository/RoomRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/typeConverters/PhotoTypeConverter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/data/typeConverters/PhotoTypeConverter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/di/AppComponent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/di/AppComponent.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/di/DatabaseModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/di/DatabaseModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/ui/screen/MainScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/ui/screen/MainScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/ui/screen/viewModel/MainViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Roomconnectionsandmigrations/app/src/main/java/com/example/roomconnectionsandmigrations/ui/screen/viewModel/MainViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Shortcuts/app/src/main/res/xml/shortcuts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Shortcuts/app/src/main/res/xml/shortcuts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/application/BaseApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/application/BaseApplication.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/data/MusicDatabase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/data/MusicDatabase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/data/model/Music.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/data/model/Music.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/di/ServiceModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/di/ServiceModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/exoplayer/FirebaseMusicSource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/exoplayer/FirebaseMusicSource.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/exoplayer/MusicService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/exoplayer/MusicService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/exoplayer/State.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/exoplayer/State.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/navigation/host/Host.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/navigation/host/Host.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/navigation/navGraph/homeNavGraph/constants/RouteAndArgumentsHome.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/navigation/navGraph/homeNavGraph/constants/RouteAndArgumentsHome.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/navigation/navGraph/homeNavGraph/constants/RouteScreenHome.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/navigation/navGraph/homeNavGraph/constants/RouteScreenHome.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/navigation/navGraph/homeNavGraph/homeNavGraph.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/navigation/navGraph/homeNavGraph/homeNavGraph.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/screen/homeScreen/HomeScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/screen/homeScreen/HomeScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/screen/homeScreen/viewModel/HomeViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/screen/homeScreen/viewModel/HomeViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/utils/Constants.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/utils/Constants.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/utils/Converters.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/SpotifyFirebase/app/src/main/java/com/example/spotifyfirebase/utils/Converters.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/StoreApp/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/StoreApp/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/StoreApp/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/StoreApp/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/StoreApp/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/StoreApp/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/StoreApp/app/src/main/java/com/example/storeapp/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/StoreApp/app/src/main/java/com/example/storeapp/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/StoreApp/app/src/main/java/com/example/storeapp/ui/theme/Shape.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/StoreApp/app/src/main/java/com/example/storeapp/ui/theme/Shape.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/StoreApp/app/src/main/java/com/example/storeapp/ui/theme/Theme.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/StoreApp/app/src/main/java/com/example/storeapp/ui/theme/Theme.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/StoreApp/app/src/main/java/com/example/storeapp/ui/theme/Type.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/StoreApp/app/src/main/java/com/example/storeapp/ui/theme/Type.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/StoreApp/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/StoreApp/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/StoreApp/buildSrc/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/StoreApp/buildSrc/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/StoreApp/buildSrc/src/main/java/com/example/buildsrc/Dependencies.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/StoreApp/buildSrc/src/main/java/com/example/buildsrc/Dependencies.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/StoreApp/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/StoreApp/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Teach/app/src/main/java/com/example/teach/Testing.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Teach/app/src/main/java/com/example/teach/Testing.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Teach/app/src/main/java/com/example/teach/api/implementation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Teach/app/src/main/java/com/example/teach/api/implementation.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/TestingUnit/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/TestingUnit/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/TestingUnit/app/src/main/java/com/example/testingunit/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/TestingUnit/app/src/main/java/com/example/testingunit/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/TestingUnit/app/src/main/java/com/example/testingunit/MainViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/TestingUnit/app/src/main/java/com/example/testingunit/MainViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/TestingUnit/app/src/main/java/com/example/testingunit/data/common/Response.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/TestingUnit/app/src/main/java/com/example/testingunit/data/common/Response.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/TestingUnit/app/src/main/java/com/example/testingunit/data/dao/ProductDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/TestingUnit/app/src/main/java/com/example/testingunit/data/dao/ProductDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/TestingUnit/app/src/main/java/com/example/testingunit/data/database/ProductDatabase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/TestingUnit/app/src/main/java/com/example/testingunit/data/database/ProductDatabase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/TestingUnit/app/src/main/java/com/example/testingunit/data/entity/Product.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/TestingUnit/app/src/main/java/com/example/testingunit/data/entity/Product.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/TestingUnit/app/src/main/java/com/example/testingunit/data/repository/ProductRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/TestingUnit/app/src/main/java/com/example/testingunit/data/repository/ProductRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/TestingUnit/app/src/main/java/com/example/testingunit/data/repository/ProductRepositoryImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/TestingUnit/app/src/main/java/com/example/testingunit/data/repository/ProductRepositoryImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/TestingUnit/app/src/main/java/com/example/testingunit/di/AppComponent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/TestingUnit/app/src/main/java/com/example/testingunit/di/AppComponent.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/TestingUnit/app/src/main/java/com/example/testingunit/di/DatabaseModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/TestingUnit/app/src/main/java/com/example/testingunit/di/DatabaseModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/TestingUnit/app/src/test/java/com/example/testingunit/repositories/FakeRepositoryProdict.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/TestingUnit/app/src/test/java/com/example/testingunit/repositories/FakeRepositoryProduct.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/TestingUnit/app/src/test/java/com/example/testingunit/repositories/FakeRepositoryProduct.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Widget/app/src/main/java/com/example/widget/AppApplication.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Widget/app/src/main/java/com/example/widget/MainViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Widget/app/src/main/java/com/example/widget/MainViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Widget/app/src/main/java/com/example/widget/api/MusicApi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Widget/app/src/main/java/com/example/widget/api/MusicApi.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Widget/app/src/main/java/com/example/widget/api/repository/ApiRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Widget/app/src/main/java/com/example/widget/api/repository/ApiRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Widget/app/src/main/java/com/example/widget/di/ApiModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Widget/app/src/main/java/com/example/widget/di/ApiModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Widget/app/src/main/java/com/example/widget/di/AppComponent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Widget/app/src/main/java/com/example/widget/di/AppComponent.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Widget/app/src/main/java/com/example/widget/widgets/TestWidget.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Widget/app/src/main/java/com/example/widget/widgets/TestWidget.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Widget/app/src/main/java/com/example/widget/widgets/TestWidgetActions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Widget/app/src/main/java/com/example/widget/widgets/TestWidgetActions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Widget/app/src/main/java/com/example/widget/widgets/TestWidgetCounter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Widget/app/src/main/java/com/example/widget/widgets/TestWidgetCounter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Widget/app/src/main/res/layout/water_widget_loading.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Widget/app/src/main/res/layout/water_widget_loading.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Widget/app/src/main/res/layout/water_widget_preview.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Widget/app/src/main/res/layout/water_widget_preview.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/Widget/app/src/main/res/xml/water_widget_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/Widget/app/src/main/res/xml/water_widget_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/app/src/main/java/com/example/cleanarchitecture/common/Constants.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/app/src/main/java/com/example/cleanarchitecture/common/Constants.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/app/src/main/java/com/example/cleanarchitecture/di/ApiModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/app/src/main/java/com/example/cleanarchitecture/di/ApiModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/app/src/main/java/com/example/cleanarchitecture/di/AppComponent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/app/src/main/java/com/example/cleanarchitecture/di/AppComponent.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/app/src/main/java/com/example/cleanarchitecture/presentation/ui/screen/musicScreen/MusicScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/app/src/main/java/com/example/cleanarchitecture/presentation/ui/screen/musicScreen/MusicScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/app/src/main/java/com/example/cleanarchitecture/presentation/ui/screen/musicScreen/state/MusicState.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/app/src/main/java/com/example/cleanarchitecture/presentation/ui/screen/musicScreen/state/MusicState.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/app/src/main/java/com/example/cleanarchitecture/presentation/ui/screen/musicScreen/state/MusicViewState.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/app/src/main/java/com/example/cleanarchitecture/presentation/ui/screen/musicScreen/state/MusicViewState.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/app/src/main/java/com/example/cleanarchitecture/presentation/ui/screen/musicScreen/view/MusicErrorView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/app/src/main/java/com/example/cleanarchitecture/presentation/ui/screen/musicScreen/view/MusicErrorView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/app/src/main/java/com/example/cleanarchitecture/presentation/ui/screen/musicScreen/view/MusicItemView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/app/src/main/java/com/example/cleanarchitecture/presentation/ui/screen/musicScreen/view/MusicItemView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/app/src/main/java/com/example/cleanarchitecture/presentation/ui/screen/musicScreen/view/MusicLoadingView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/app/src/main/java/com/example/cleanarchitecture/presentation/ui/screen/musicScreen/view/MusicLoadingView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/app/src/main/java/com/example/cleanarchitecture/presentation/ui/screen/musicScreen/viewModel/MusicViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/app/src/main/java/com/example/cleanarchitecture/presentation/ui/screen/musicScreen/viewModel/MusicViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/data/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/data/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/data/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/data/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/data/src/main/java/com/example/data/common/ConstantsUrlApi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/data/src/main/java/com/example/data/common/ConstantsUrlApi.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/data/src/main/java/com/example/data/remote/MusicApi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/data/src/main/java/com/example/data/remote/MusicApi.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/data/src/main/java/com/example/data/repository/MusicRepositoryImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/data/src/main/java/com/example/data/repository/MusicRepositoryImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/domain/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/domain/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/domain/src/main/java/com/example/domain/common/Resource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/domain/src/main/java/com/example/domain/common/Resource.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/domain/src/main/java/com/example/domain/entities/Music.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/domain/src/main/java/com/example/domain/entities/Music.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/domain/src/main/java/com/example/domain/repository/MusicRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/domain/src/main/java/com/example/domain/repository/MusicRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/domain/src/main/java/com/example/domain/use_case/getMusic/GetMusicUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/cleanarchitecture/domain/src/main/java/com/example/domain/use_case/getMusic/GetMusicUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/flutter_testing/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/flutter_testing/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/flutter_testing/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/flutter_testing/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/flutter_testing/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/flutter_testing/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/jetpackpaging3/app/src/main/java/com/example/jetpackpaging3/MainViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/jetpackpaging3/app/src/main/java/com/example/jetpackpaging3/MainViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/jetpackpaging3/app/src/main/java/com/example/jetpackpaging3/MainViewModelFactory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/jetpackpaging3/app/src/main/java/com/example/jetpackpaging3/MainViewModelFactory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/jetpackpaging3/app/src/main/java/com/example/jetpackpaging3/data/CharacterApi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/jetpackpaging3/app/src/main/java/com/example/jetpackpaging3/data/CharacterApi.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/jetpackpaging3/app/src/main/java/com/example/jetpackpaging3/data/RetrofitInst.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/jetpackpaging3/app/src/main/java/com/example/jetpackpaging3/data/RetrofitInst.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/jetpackpaging3/app/src/main/java/com/example/jetpackpaging3/data/model/Character.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/jetpackpaging3/app/src/main/java/com/example/jetpackpaging3/data/model/Character.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/jetpackpaging3/app/src/main/java/com/example/jetpackpaging3/data/repository/BaseRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/jetpackpaging3/app/src/main/java/com/example/jetpackpaging3/data/repository/BaseRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Weor os/jetpackpaging3/app/src/main/java/com/example/jetpackpaging3/data/source/CharacterSource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Weor os/jetpackpaging3/app/src/main/java/com/example/jetpackpaging3/data/source/CharacterSource.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jetpack_compose_v2/.idea/compose-git.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jetpack_compose_v2/.idea/modules/Google_Maps.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jetpack_compose_v2/.idea/modules/app/Google_Maps.app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jetpack_compose_v2/.idea/modules/jetpack_compose_v2.buildSrc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cs_go_API/src/main/kotlin/com/example/database/DatabaseFactory.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cs_go_API/src/main/kotlin/com/example/database/weapon/DTOs/WeaponDTO.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cs_go_API/src/main/kotlin/com/example/database/weapon/WeaponDAO.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cs_go_API/src/main/kotlin/com/example/database/weapon/Weapons.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cs_go_API/src/main/kotlin/com/example/features/weapon/controllers/WeaponController.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cs_go_API/src/main/kotlin/com/example/features/weapon/controllers/WeaponControllerImpl.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cs_go_API/src/main/kotlin/com/example/plugins/Serialization.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selection/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../selection/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selection/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../selection/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selection/src/main/kotlin/ru/selection/database/Employees.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../selection/src/main/kotlin/ru/selection/database/Employees.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selection/src/main/kotlin/ru/selection/database/Positions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../selection/src/main/kotlin/ru/selection/database/Positions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selection/src/main/kotlin/ru/selection/plugins/Routing.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../selection/src/main/kotlin/ru/selection/plugins/Routing.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing ktor server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing ktor server/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing ktor server/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing ktor server/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing ktor server/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing ktor server/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing ktor server/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing ktor server/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing ktor server/src/main/kotlin/com/example/Application.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing ktor server/src/main/kotlin/com/example/database/DatabaseFactory.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing ktor server/src/main/kotlin/com/example/database/user/UserDTO.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing ktor server/src/main/kotlin/com/example/database/user/Users.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing ktor server/src/main/kotlin/com/example/features/user/ConfigureRouting.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing ktor server/src/main/kotlin/com/example/features/user/UserController.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing ktor server/src/main/kotlin/com/example/features/user/authorization/ConfigureRouting.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing ktor server/src/main/kotlin/com/example/features/user/authorization/model/Authorization.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing ktor server/src/main/kotlin/com/example/features/user/authorization/model/TokenResponse.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing ktor server/src/main/kotlin/com/example/features/user/registration/ConfigureRouting.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing ktor server/src/main/kotlin/com/example/serialization/ConfigureSerialization.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing ktor server/src/main/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing ktor server/src/test/kotlin/com/example/ApplicationTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/ComposableSingletons$MainKt$lambda-2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/ComposableSingletons$MainKt$lambda-2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt$Dialog$3$1$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt$Dialog$3$1$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt$Dialog$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt$Dialog$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt$MainScreen$3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt$MainScreen$3$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt$MainScreen$4$1$5$2$1$1$1$1$1$1$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt$MainScreen$4$1$5$2$1$1$1$1$1$1$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt$MainScreen$4$1$5$2$1$1$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt$MainScreen$4$1$5$2$1$1$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt$MainScreen$4$1$5$2$1$1$2$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt$MainScreen$4$1$5$2$1$1$2$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt$MainScreen$4$1$5$2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt$MainScreen$4$1$5$2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt$MainScreen$4$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt$MainScreen$4$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt$SortingDepartment$3$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt$SortingDepartment$3$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt$SortingDepartment$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt$SortingDepartment$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt$SortingPost$3$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt$SortingPost$3$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt$SortingPost$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt$SortingPost$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/Application.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/Application.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/auth/AuthConfig.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/auth/AuthConfig.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/auth/TokenProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/auth/TokenProvider.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/auth/common/ConstantsAuth.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/auth/common/ConstantsAuth.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/common/Result.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/common/Result.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/database/DatabaseFactory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/database/DatabaseFactory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/database/user/UserDAO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/database/user/UserDAO.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/database/user/Users.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/database/user/Users.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/database/user/dto/AuthorizationUserDTO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/database/user/dto/AuthorizationUserDTO.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/database/user/dto/RegistrationUserDTO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/database/user/dto/RegistrationUserDTO.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/database/user/dto/UserDTO.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/database/user/model/User.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/database/video/VideoDAO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/database/video/VideoDAO.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/database/video/Videos.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/database/video/Videos.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/database/video/dto/CreateVideoDTO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/database/video/dto/CreateVideoDTO.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/database/video/model/Video.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/database/video/model/Video.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/di/Koin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/di/Koin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/features/user/controller/UserController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/features/user/controller/UserController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/features/user/controller/UserControllerImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/features/user/controller/UserControllerImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/features/user/model/AuthorizationResult.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/features/user/model/AuthorizationResult.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/features/user/model/UserInfoResult.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/features/user/model/UserInfoResult.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/features/user/routing/UserRouting.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/features/user/routing/UserRouting.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/features/video/controller/VideoController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/features/video/controller/VideoController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/features/video/controller/VideoControllerImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/features/video/controller/VideoControllerImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/features/video/routing/VideoRouting.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/features/video/routing/VideoRouting.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/plugins/Authorization.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/plugins/Authorization.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/plugins/KtorDI.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/plugins/KtorDI.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/plugins/Plugins.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/plugins/Plugins.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/plugins/Serialization.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/plugins/Serialization.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/routing/MainRouting.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/main/kotlin/ru/youTube/routing/MainRouting.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../you-tube-api/src/test/kotlin/ru/youTube/ApplicationTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../you-tube-api/src/test/kotlin/ru/youTube/ApplicationTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../website/html/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../website/html/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../website/html/html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../website/html/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../website/html/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../website/php/phpTesting.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../website/php/phpTesting.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin Data Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2C25SUIJclAJa6vDCCk2NpMxS80" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\danbe\Desktop\ktor server\untitled1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="untitled1.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8327364e-d933-41f4-af45-c238da7f6242" name="Changes" comment="" />
+      <created>1657987844429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657987844429</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
